@@ -20,9 +20,5 @@ public class Student {
     @ManyToOne(fetch = FetchType.LAZY)
     private Teacher teacher;
 
-    // Constructors, getters, and setters
 
-    // Constructors, getters, and setters
-
-    // ...
 }
